@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_doubleslab",
+    "textures": {
+        "top": "block/birch_doubleslab_top",
+		"side": "block/birch_doubleslab_side"
+    }
+}

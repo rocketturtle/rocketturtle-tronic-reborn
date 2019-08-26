@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_doubleslab",
+    "textures": {
+        "top": "block/stone_brick_doubleslab_top",
+		"side": "block/stone_brick_doubleslab_side"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_hinge",
+    "textures": {
+        "top": "block/iron_door_top",
+        "sides": "block/iron_door_top_sides"
+    }
+}

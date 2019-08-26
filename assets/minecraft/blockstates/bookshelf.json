@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "bookshelf01" },
+            { "model": "bookshelf02" },
+			{ "model": "bookshelf03" },
+			{ "model": "bookshelf04" },
+			{ "model": "bookshelf05" },
+			{ "model": "bookshelf06" },
+			{ "model": "bookshelf07" },
+			{ "model": "bookshelf08" },
+			{ "model": "bookshelf09" },
+			{ "model": "bookshelf10" },
+			{ "model": "bookshelf11" },
+			{ "model": "bookshelf12" },
+			{ "model": "bookshelf13" },
+			{ "model": "bookshelf14" },
+			{ "model": "bookshelf15" },
+			{ "model": "bookshelf16" },
+			{ "model": "bookshelf17" },
+			{ "model": "bookshelf18" },
+			{ "model": "bookshelf19" },
+			{ "model": "bookshelf20" },
+			{ "model": "bookshelf21" },
+			{ "model": "bookshelf22" },
+            { "model": "bookshelf23" },
+			{ "model": "bookshelf24" }
+        ]
+    }
+}
