@@ -16,6 +16,10 @@ Open Minecraft, click on "Options", then "Resource Packs".  Choose "Open resourc
 
 That's it!
 
+# License
+
+This resource pack is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.  In short, that means that you are free to share and adapt this content with attribution, but are not free to use this content for commercial purposes.  For the full legalese, see the LICENSE.txt file and/or https://creativecommons.org/licenses/by-nc-sa/4.0/.
+
 # To Do
 
 An unordered list of future features:
