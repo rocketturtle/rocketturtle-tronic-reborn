@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "block/jungle_fence_post" },
+        "east=false,north=true,south=false,west=false": { "model": "block/jungle_fence_n" },
+        "east=true,north=false,south=false,west=false": { "model": "block/jungle_fence_e" },
+        "east=false,north=false,south=true,west=false": { "model": "block/jungle_fence_s" },
+        "east=false,north=false,south=false,west=true": { "model": "block/jungle_fence_w" },
+        "east=true,north=true,south=false,west=false": { "model": "block/jungle_fence_ne" },
+        "east=true,north=false,south=true,west=false": { "model": "block/jungle_fence_se" },
+        "east=false,north=false,south=true,west=true": { "model": "block/jungle_fence_sw" },
+        "east=false,north=true,south=false,west=true": { "model": "block/jungle_fence_nw" },
+        "east=false,north=true,south=true,west=false": { "model": "block/jungle_fence_ns" },
+        "east=true,north=false,south=false,west=true": { "model": "block/jungle_fence_ns", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "block/jungle_fence_nse" },
+        "east=true,north=false,south=true,west=true": { "model": "block/jungle_fence_ews" },
+        "east=false,north=true,south=true,west=true": { "model": "block/jungle_fence_nsw" },
+        "east=true,north=true,south=false,west=true": { "model": "block/jungle_fence_ewn" },
+        "east=true,north=true,south=true,west=true": { "model": "block/jungle_fence_nsew" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/button",
+    "textures": {
+        "particle": "block/oak_planks",
+		"texture": "block/oak_button"
+    }
+}

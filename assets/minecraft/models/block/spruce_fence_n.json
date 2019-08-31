@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_n",
+    "textures": {
+		"particle": "block/spruce_planks",
+        "texture": "block/spruce_fence"
+    }
+}

@@ -2,7 +2,7 @@
 
 Tested in Minecraft 1.14.4
 
-Last edited 08/25/2019
+Last edited 08/30/2019
 
 # About
 
@@ -24,8 +24,6 @@ This resource pack is distributed under the Creative Commons Attribution-NonComm
 
 An unordered list of future features:
 
-* Fix models for fences and fence gates
-* Fix models for levers, hoppers, tripwire hooks
 * Fix akward texture application for some stairs and slabs
 
 * Rebuild texture for new horse models

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "block/melon_top",
+        "side": "block/melon_side"
+    }
+}

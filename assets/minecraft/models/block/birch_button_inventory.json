@@ -1,0 +1,7 @@
+{
+    "parent": "block/button_inventory",
+    "textures": {
+        "particle": "block/birch_planks",
+		"texture": "block/birch_button"
+    }
+}
