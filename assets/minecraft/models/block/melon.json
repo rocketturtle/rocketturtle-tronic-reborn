@@ -1,7 +1,12 @@
 {
-    "parent": "block/cube_top",
+    "parent": "block/cube",
     "textures": {
-        "top": "block/melon_top",
-        "side": "block/melon_side"
+        "particle": "block/melon_side",
+        "down": "block/melon_bottom",
+        "up": "block/melon_top",
+        "north": "block/melon_side",
+        "east": "block/melon_side",
+        "south": "block/melon_side",
+        "west": "block/melon_side"
     }
 }

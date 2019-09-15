@@ -1,5 +1,5 @@
 {
-    "parent": "block/cube_top",
+    "parent": "block/cube",
     "display": {
         "firstperson_righthand": {
             "rotation": [ 0, 135, 0 ],
@@ -8,7 +8,15 @@
         }
     },
     "textures": {
-        "top": "block/pumpkin_top",
-        "side": "block/pumpkin_side"
+        "particle": "block/pumpkin_side",
+        "down": "block/pumpkin_bottom",
+        "up": "block/pumpkin_top",
+        "north": "block/pumpkin_side",
+        "east": "block/pumpkin_side",
+        "south": "block/pumpkin_side",
+        "west": "block/pumpkin_side"
     }
 }
+
+
+
